@@ -2,7 +2,7 @@
 
 A lightweight desktop application that performs **offline Optical Character Recognition (OCR)** on PDF files using Tesseract.
 
-This tool converts scanned PDFs into clean, UTF-8 encoded text files with support for **Greek (`ell`) and English (`eng`)** languages.
+This tool converts scanned PDFs into clean, UTF-8 encoded text files with support for **Greek (`ell`)** language.
 
 Everything runs locally on your computer.  
 No cloud. No external API. No data leaves your machine.
